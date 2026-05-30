@@ -1,0 +1,3 @@
+D001|Saad|saad@gmail.com|123|DOCTOR|gastrologist|Mon-Sat|0
+D002|kamran|kichi@gmail.com|123|DOCTOR|Cardilogy|Mon-Fri|0
+D003|ANDA|ANDA@GMAIL.COM|4321|DOCTOR|ENT|MON-FRI|0
